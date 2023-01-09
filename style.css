@@ -192,6 +192,9 @@ a.nav-link{
 	text-shadow: 0 0 50px var(--main-decor-color);
 }
 
+.skills {
+     color: var(--main-fonts-color);
+}
 
 /*──────────────────
       projects
